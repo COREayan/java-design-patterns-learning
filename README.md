@@ -1,2 +1,38 @@
-# java-design-patterns
-I'm learning design patterns using Java through hands-on projects. This repo contains simple, clear examples of popular object-oriented design patterns with real-world use cases. Each pattern is implemented, tested, and explained to strengthen my understanding of clean, maintainable software architecture.
+# ☕ Learning Java Design Patterns
+
+Hi! 👋 I'm learning **Object-Oriented Design Patterns** using Java. This repository is my personal learning lab where I:
+
+- 👨‍💻 Implement each design pattern from scratch
+- 📚 Understand the real-world use case for each pattern
+- 🧠 Learn to write clean, reusable, and maintainable code
+
+## 🧱 Covered Patterns
+
+This repo will gradually include examples from all three main categories:
+
+- **Creational** (e.g., Singleton, Factory, Builder)
+- **Structural** (e.g., Adapter, Decorator, Composite)
+- **Behavioral** (e.g., Strategy, Observer, Command)
+
+Each folder contains:
+- ✅ Java source code
+- ✅ Comments explaining the flow
+- ✅ A mini real-world analogy (when possible)
+
+## 🎯 Goal
+
+By the end of this project, I want to:
+- Deeply understand design patterns
+- Be interview-ready for Java developer roles
+- Write better architecture in real-world projects
+
+## 📚 More Resources
+
+To supplement my learning, I’m referring to these excellent resources:
+
+- 🔗 [DigitalOcean Java Design Patterns Tutorial](https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial)
+- 🔗 [Refactoring Guru – Design Patterns in Java](https://refactoring.guru/design-patterns)
+
+---
+
+⭐ Feel free to explore and suggest improvements!
