@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36c7fd74-d334-4d95-be47-b66d55231309" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/Creational.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/Singleton/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Problem/WithoutSingletonPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Solution/AppSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Solution/SingletonPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/DatabaseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/DatabaseDataConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/DatabaseDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/DisplayData3rdParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/DisplayDataAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/CatalinStefan/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/EmailNotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/SendGridAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayan/prateekNarang/SendGridService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Creational/Singleton/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Creational/Singleton/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Problem/AppSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Problem/AppSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Creational/Singleton/src/main/java/com/ayan/prateekNarang/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Client.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.com.ayan.prateekNarang.Client.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/ayan/Code/Java/Udemy/DesignPattern/Structural/Adapter/src/main/java/com/ayan/Main.java",
-    "settings.editor.selected.configurable": "preferences.JavaFX"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ayan.prateekNarang.Client.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/ayan/Code/Java/Udemy/DesignPattern/Structural/Adapter/src/main/java/com/ayan/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.com.ayan.prateekNarang.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ayan.catalinStefan.Client" />
