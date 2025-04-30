@@ -1,17 +1,26 @@
 package com.ayan.prateekNarang;
 
+import java.util.*;
+
 class DisplayDevice {
+    private static int nextId;
+    private int id;
+
+    public DisplayDevice() {
+        id = ++nextId;
+    }
+
     public void showTemp(float temp) {
-        System.out.println("Current Temp: " + temp + " C");
+        System.out.println("Devie id : " + id + ", Current Temp: " + temp + " C");
     }
 }
 
 class WeatherStation {
     private float temperature;
-    private DisplayDevice displayDevice; // can be multiple such devices later on.
+    private List<DisplayDevice> displayDeviceList; // can be multiple such devices later on.
 
-    public WeatherStation(DisplayDevice displayDevice) {
-        this.displayDevice = displayDevice;
+    public WeatherStation(List<DisplayDevice> displayDeviceList) {
+        this.displayDeviceList = displayDeviceList;
     }
 
     public void setTemperature(float temp) {
@@ -20,14 +29,21 @@ class WeatherStation {
     }
 
     public void notifyDevice() {
-        displayDevice.showTemp(temperature);
+        for (DisplayDevice currentDevice : displayDeviceList) {
+            currentDevice.showTemp(this.temperature);
+        }
+        System.out.println();
     }
 }
 
 public class WithoutObserverPattern {
     public static void main(String[] args) {
-        DisplayDevice device = new DisplayDevice();
-        WeatherStation station = new WeatherStation(device);
+        List<DisplayDevice> displayDeviceList = new ArrayList<>();
+        for (int i=0; i<5; i++) {
+            displayDeviceList.add(new DisplayDevice());
+        }
+
+        WeatherStation station = new WeatherStation(displayDeviceList);
 
         station.setTemperature(26);
         station.setTemperature(30);
