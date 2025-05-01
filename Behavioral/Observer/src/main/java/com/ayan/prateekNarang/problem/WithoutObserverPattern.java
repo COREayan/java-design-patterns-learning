@@ -1,4 +1,4 @@
-package com.ayan.prateekNarang;
+package com.ayan.prateekNarang.problem;
 
 import java.util.*;
 
