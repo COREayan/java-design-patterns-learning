@@ -10,8 +10,8 @@ Hi! 👋 I'm learning **Object-Oriented Design Patterns** using Java. This repos
 
 This repo will gradually include examples from all three main categories:
 
-- **Creational** (e.g., Singleton, Factory, Builder)
-- **Structural** (e.g., Adapter, Decorator, Composite)
+- **Creational** (e.g., factory, abstractFactory, Singleton, Builder)
+- **Structural** (e.g., Adapter, Decorator, Facade, Composite)
 - **Behavioral** (e.g., Strategy, Observer, Command)
 
 Each folder contains:
