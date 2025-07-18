@@ -11,8 +11,8 @@ Hi! 👋 I'm learning **Object-Oriented Design Patterns** using Java. This repos
 This repo will gradually include examples from all three main categories:
 
 - **Creational** (e.g., AbstractFactory, Builder, Factory, Prototype,  Singleton)
-- **Structural** (e.g., Adapter, Bridge, Composit, Decorator, Facade, Proxy)
-- **Behavioral** (e.g., Strategy, Observer, Command, Chain Of Responsibility)
+- **Structural** (e.g., Adapter, Bridge, Composit, Decorator, Facade, Flyweight, Proxy)
+- **Behavioral** (e.g., Chain Of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template, Visitor)
 
 Each folder contains:
 - ✅ Java source code
