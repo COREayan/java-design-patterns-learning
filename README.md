@@ -33,6 +33,7 @@ To supplement my learning, I’m referring to these excellent resources:
 - 🔗 [DigitalOcean Java Design Patterns Tutorial](https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial)
 - 🔗 [Refactoring Guru – Design Patterns in Java](https://refactoring.guru/design-patterns)
 - 🔗 [Source Making](https://sourcemaking.com/)
+- 🔗 [Open Source Java Design Patterns](https://java-design-patterns.com/patterns/#read-online)
 
 ---
 
