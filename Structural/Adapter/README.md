@@ -1,4 +1,4 @@
-#🔌 Adapter Design Pattern in Java
+# 🔌 Adapter Design Pattern in Java
 
 ---
 
