@@ -4,8 +4,7 @@
 
 ## 📚 What is the Bridge Pattern?
 
-The **Bridge Pattern** is a **structural design pattern** that decouples an abstraction from its implementation so that the two can vary independently.  
-It uses **composition** over inheritance by creating two separate class hierarchies — one for **abstractions** and one for **implementations** — and then bridges them together.
+The **Bridge Pattern** is a **structural design pattern** that decouples an abstraction from its implementation so that the two can vary independently. It uses **composition** over inheritance by creating two separate class hierarchies — one for **abstractions** and one for **implementations** — and then bridges them together.
 
 ---
 
