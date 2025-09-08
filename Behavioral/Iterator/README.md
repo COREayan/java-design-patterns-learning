@@ -33,6 +33,6 @@ It encapsulates the iteration logic in a separate object called the **Iterator**
 - [SourceMaking: Iterator Design Pattern](https://sourcemaking.com/design_patterns/iterator)  
 - [Wikipedia: Iterator Pattern](https://en.wikipedia.org/wiki/Iterator_pattern)  
 - [Baeldung: Iterator Pattern in Java](https://www.baeldung.com/java-iterator)  
-- [JournalDev: Iterator Design Pattern](https://www.journaldev.com/1716/iterator-design-pattern-java)  
+- [DigitalOcean: Iterator Design Pattern](https://www.journaldev.com/1716/iterator-design-pattern-java)  
 
 ---
