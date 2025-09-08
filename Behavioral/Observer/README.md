@@ -65,9 +65,10 @@ When one object (called the **subject**) changes state, all its dependent **obse
 
 ---
 
-## 📚 Further Reading
+## 📚 Articles
 
-- [Baeldung: Observer Pattern in Java](https://www.baeldung.com/java-observer-pattern)  
-- [Vogella: Observer Pattern Tutorial](https://www.vogella.com/tutorials/DesignPatternObserver/article.html)  
 - [Refactoring Guru: Observer Pattern](https://refactoring.guru/design-patterns/observer)  
+- [SourceMaking: Observer Pattern](https://sourcemaking.com/design_patterns/observer)  
 - [Wikipedia: Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)  
+- [Baeldung: Observer Pattern in Java](https://www.baeldung.com/java-observer-pattern)  
+- [JournalDev: Observer Pattern](https://www.journaldev.com/1739/observer-design-pattern-in-java)  
