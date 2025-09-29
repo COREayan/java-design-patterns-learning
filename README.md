@@ -34,6 +34,7 @@ To supplement my learning, I’m referring to these excellent resources:
 - 🔗 [Refactoring Guru – Design Patterns in Java](https://refactoring.guru/design-patterns)
 - 🔗 [Source Making](https://sourcemaking.com/)
 - 🔗 [Open Source Java Design Patterns](https://java-design-patterns.com/patterns/#read-online)
+- 🔗 [OODesign.com](https://www.oodesign.com/)
 
 ---
 
