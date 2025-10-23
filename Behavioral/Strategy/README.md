@@ -56,4 +56,4 @@ Use the Strategy Pattern when:
 - [Wikipedia: Strategy Pattern](https://en.wikipedia.org/wiki/Strategy_pattern)  
 - [Baeldung: Strategy Pattern in Java](https://www.baeldung.com/java-strategy-pattern)  
 - [JournalDev: Strategy Design Pattern in Java](https://www.journaldev.com/1754/strategy-design-pattern-in-java)  
-- [DigitalOcean: Strategy Design Pattern Example](https://www.digitalocean.com/community/tutorials/strategy-design-pattern-java-example)  
+- [DigitalOcean: Strategy Design Pattern Example](https://www.digitalocean.com/community/tutorials/strategy-design-pattern-in-java-example-tutorial)  
