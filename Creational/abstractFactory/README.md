@@ -39,5 +39,5 @@ This pattern promotes **loose coupling**, enhances **scalability**, and adheres 
 - [Refactoring Guru: Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
 - [SourceMaking: Abstract Factory Design Pattern](https://sourcemaking.com/design_patterns/abstract_factory)
 - [Wikipedia: Abstract factory pattern](https://en.wikipedia.org/wiki/Abstract_factory_pattern)  
-- [Baeldung: Factory Method](https://www.baeldung.com/java-abstract-factory-pattern)[
+- [Baeldung: Factory Method](https://www.baeldung.com/java-abstract-factory-pattern)
 - [DigitalOcean: Abstract Factory Method](https://www.digitalocean.com/community/tutorials/abstract-factory-design-pattern-in-java)
